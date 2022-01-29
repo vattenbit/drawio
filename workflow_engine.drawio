@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T11:14:19.084Z" agent="5.0 (Windows)" version="16.5.2" etag="YKd9plaPLmX3u8OLWgQZ" type="github"><diagram id="IFSpSiR9jKNboN0qODkQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-29T11:19:09.939Z" agent="5.0 (Windows)" etag="aO94OdwJQ3820sTlXnPS" version="16.5.2" type="github">
+  <diagram id="IFSpSiR9jKNboN0qODkQ" name="Page-1">
+    <mxGraphModel dx="868" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PmyIS6u5g_ccVkfRYbmF-1" value="Workflow Engine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PmyIS6u5g_ccVkfRYbmF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PmyIS6u5g_ccVkfRYbmF-5" value="ansible_azure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="55" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
